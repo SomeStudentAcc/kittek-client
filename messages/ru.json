@@ -1,0 +1,42 @@
+{
+  "navbar": {
+    "catalog": "Каталог",
+    "sales": "Акции",
+    "blogs": "Блог",
+    "branches": "Магазины",
+    "serviceCenter": "Сервисный центр",
+    "aboutUs": "О нас",
+    "howToMakeOrder": "Как сделать заказ",
+    "answeringToquestions": "Отвечаем на ваши вопросы",
+    "deliveryAndPayment": "Доставка и оплата",
+    "regardingAnyQuestions": "По любым вопросам звоните"
+  },
+  "mainPage": "Главная",
+  "chooseCategory": "Выберите категорию",
+  "filters": "Фильтры",
+  "reset": "Сбросить",
+  "body": {
+    "newProducts": "Новинки",
+    "bestSellers": "Топ продаж",
+    "ourBrands": "Наши бренды"
+  },
+  "product": {
+    "description": "Описание",
+    "characteristics": "Характеристики",
+    "delivery": "Доставка",
+    "brand": "Бренд",
+    "model": "Модель",
+    "warranty": "Гарантия",
+    "price": "Цена",
+    "addToCart": "Добавить в корзину",
+    "relatedProducts": "Рекомендуем"
+  },
+  "footer": {
+    "navigaion": "Навигация",
+    "aboutUs": "О нас",
+    "aboutCompany": "О компании",
+    "punlicOffer": "Публичная оферта",
+    "deliveryAndPayment": "Доставка и оплата",
+    "ourSocialMedia": "Наши соцсети"
+  }
+}
